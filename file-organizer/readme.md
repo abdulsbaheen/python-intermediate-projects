@@ -1,4 +1,4 @@
-# 🗂 File Organizer (Python)
+# 🗂 File Organizer 
 
 A simple and powerful Python project that automatically organizes files into folders based on their type. This tool helps keep directories clean and structured by sorting files such as images, documents, videos, and more.
 
