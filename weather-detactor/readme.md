@@ -57,7 +57,7 @@ Wind Speed  : 5.1 m/s
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-detector.git
+git clone https://github.com/abdulsbaheen/weather-detector.git
 ```
 
 ### Navigate to the project folder
