@@ -4,7 +4,7 @@ import os
 #_______________________________________________
 # make a function to generate a qrcode with logo
 #_______________________________________________
-def generate_qrcode(data, Logo, folder_name, filename,):
+def generate_qrcode(data, Logo, folder_name, filename):
     # first make the QR code and describe it's properties
     QR = qr.QRCode(version=1,
                    error_correction = qr.constants.ERROR_CORRECT_H,
